@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1710348506 source:c:\users\igorc\onedrive\documentos\github\my projects\language-c\desafios\desafio do professor\exe03\exe03\main.c
+	<stdio.h>
+	<stdlib.h>
+
